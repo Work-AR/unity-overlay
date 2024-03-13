@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5438900029218683827
+  m_GuidHigh: 11338665651040755373
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5275025492834026832
+      m_GuidHigh: 16618374404867548562
+    m_SerializedTextureGuid:
+      m_GuidLow: 1457296372872155711
+      m_GuidHigh: 10361521477858067866
+    m_Size: {x: 0.205, y: 0.23243874}
+    m_SpecifySize: 1
+    m_Name: AlgoBook
+    m_Texture: {fileID: 2800000, guid: 7d82923f5b5414399a854fece284cb8f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4788579372967490297
+      m_GuidHigh: 4182486410401612436
+    m_SerializedTextureGuid:
+      m_GuidLow: 12987802007073573342
+      m_GuidHigh: 7920610452755235433
+    m_Size: {x: 0.21, y: 0.26490867}
+    m_SpecifySize: 1
+    m_Name: Mazidi
+    m_Texture: {fileID: 2800000, guid: f4b9c9def11cb43d69c2b8d83da9eb6d, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5563041098833843706
+      m_GuidHigh: 8997121190844137635
+    m_SerializedTextureGuid:
+      m_GuidLow: 4951100369788221734
+      m_GuidHigh: 1984524288846846795
+    m_Size: {x: 0.255, y: 0.17692074}
+    m_SpecifySize: 1
+    m_Name: SwitchBoard
+    m_Texture: {fileID: 2800000, guid: e4883926d78d44b54bdbd98453728a1b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4919475655306010665
+      m_GuidHigh: 14354398907530655158
+    m_SerializedTextureGuid:
+      m_GuidLow: 3816869992073390060
+      m_GuidHigh: 444733840323647018
+    m_Size: {x: 0.075, y: 0.03567464}
+    m_SpecifySize: 1
+    m_Name: pi-zero
+    m_Texture: {fileID: 2800000, guid: ff61e7ec3f0834f82a16164c12032c06, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4965507153072324827
+      m_GuidHigh: 12683351687745118388
+    m_SerializedTextureGuid:
+      m_GuidLow: 1443302009736338874
+      m_GuidHigh: 17601857634018167834
+    m_Size: {x: 0.065, y: 0.049880877}
+    m_SpecifySize: 1
+    m_Name: arduino-blue
+    m_Texture: {fileID: 2800000, guid: e9f11dbaa38714071a8ca66e425c46f4, type: 3}
